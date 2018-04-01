@@ -1,0 +1,11 @@
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.deps.json
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.runtimeconfig.json
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.dll
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.csprojResolveAssemblyReference.cache
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.pdb
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.dll
+F:\Practice\IdentityServer\AuthServer\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.pdb

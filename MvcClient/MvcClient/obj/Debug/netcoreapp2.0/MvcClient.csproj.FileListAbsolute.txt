@@ -1,0 +1,11 @@
+F:\Practice\IdentityServer\MvcClient\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+F:\Practice\IdentityServer\MvcClient\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+F:\Practice\IdentityServer\MvcClient\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+F:\Practice\IdentityServer\MvcClient\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+F:\Practice\IdentityServer\MvcClient\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+F:\Practice\IdentityServer\MvcClient\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojResolveAssemblyReference.cache
+F:\Practice\IdentityServer\MvcClient\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+F:\Practice\IdentityServer\MvcClient\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+F:\Practice\IdentityServer\MvcClient\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+F:\Practice\IdentityServer\MvcClient\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+F:\Practice\IdentityServer\MvcClient\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb
